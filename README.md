@@ -1,4 +1,4 @@
-# SCPSL-Server-Install
+# SCPSL Server Installation Script (Ubuntu)
 Linux installation script for SCP SL server installation.
 
 ## To Use:
