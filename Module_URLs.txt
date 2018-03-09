@@ -1,0 +1,2 @@
+https://github.com/Grover-c13/MultiAdmin/releases/download/MA1.3.2%2FSM1.7.2/Assembly-CSharp.dll
+https://github.com/Grover-c13/MultiAdmin/releases/download/MA1.3.2%2FSM1.7.2/MultiAdmin.exe
