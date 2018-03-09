@@ -16,7 +16,7 @@ friendly_fire = false;
 THESE SETTINGS REQUIRES THE GAME TO RESTART:
 
 MUTLIADMIN SETTINGS:
-manual_start = true;
+manual_start = false;
 start_config_on_full=firstserver;
 shutdown_once_empty=-1;
 restart_every_num_rounds=15;
